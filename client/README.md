@@ -39,7 +39,7 @@ The backend server must allow CORS for the frontend (default: http://localhost:3
 
 ####################################################################################
 
-Installation
+**Installation
 
 cd <client-project>
 
@@ -50,7 +50,7 @@ npm run build
 npm start
 
 Access the Client:
-Open your browser and navigate to http://localhost:3000.
+Open your browser and navigate to http://localhost:3000.**
 
 
 
